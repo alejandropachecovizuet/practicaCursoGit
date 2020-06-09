@@ -10,9 +10,22 @@
     <meta name="title" content="Netflix Open Source">
     <link rel="shortcut icon" href="https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2015.ico">
 
-
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     <title>Prueba de Git Victor</title>
-
+=======
+    <title>Curso Git Erika modificado VH</title>
+>>>>>>> 8b0f87a17876d734df28e3775b966a9e9d8faf10
+=======
+    <title>Curso Git Erika; Modificado Saul  VH </title>
+>>>>>>> 6d4ad3e43cdd13f1905747f80a3731f69a95cc73
+=======
+    <title>Prueba de infex mire</title>
+=======
+    <title>Curso Git Erika; Modificado Saul</title>
+>>>>>>> e2f33556f2b3b89775d385b62b48d4ffabf7f57a
+>>>>>>> 9bf501d788ab5c598da0aa82f719e49f9112e2e6
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">aaaaaaaaaaaaaaaaaaaaaaaaa
