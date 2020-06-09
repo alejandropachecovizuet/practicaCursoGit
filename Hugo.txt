@@ -1,3 +1,7 @@
 #Este es un archivo tun tun tun
+<<<<<<< HEAD
 
-## Prueba de Recurrencia
+## Prueba de Recurrencia Rafa
+=======
+#Que cosas tun tun tun
+>>>>>>> b00ce6b3c3525135fcf2d593adf333c30be134d3
