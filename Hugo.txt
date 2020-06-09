@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+
+=======
 #Este es un archivo tun tun tun
 #Que cosas tun tun tun
+>>>>>>> 302639fd36d4b90c0b19ad4f82b45d54151f647f
