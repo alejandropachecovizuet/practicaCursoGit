@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-Se agrega una linea cambio saul
-hola 2
-hola 3
-hola 4
-=======
-Se agrega una linea.
-se agrega linea 2 Miri
->>>>>>> 4734efd3d1d672906dbd886769b7dd9f46a55b03
