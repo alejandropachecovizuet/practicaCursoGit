@@ -1,6 +1,7 @@
-
+<<<<<<< HEAD
 <!DOCTYPE html>
-
+=======
+﻿<!DOCTYPE html>
 ##ModificadoSAUL
 ##ModificadoEli
 
@@ -14,15 +15,10 @@
     <meta name="title" content="Netflix Open Source">
     <link rel="shortcut icon" href="https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2015.ico">
 
-<<<<<<< HEAD
-    <title>Netflix Open Source Software Center</title>
-	<title> Ezaul </title>
-=======
 
     <title>Prueba de Git Victor</title>
 
 
->>>>>>> 25fd9910aec60ea9d63d88cdde3d73c56a8d96dc
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">aaaaaaaaaaaaaaaaaaaaaaaaa
 
